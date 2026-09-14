@@ -1,11 +1,11 @@
 # Kovid Srivart
 
-<img src="image.png">
+<img src="images/image.png">
 
 
 ### Merge develop to main
-<img src="image2.png">
+<img src="images/image2.png">
 
 
 ### Fix Merge confict
-<img src="image3.png">
+<img src="images/image3.png">
