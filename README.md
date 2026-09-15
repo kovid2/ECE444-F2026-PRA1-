@@ -16,3 +16,6 @@
 
 ### Rebase
 <img src="images/image5.png">
+
+### Merge Rebase
+<img src="images/image6.png">
