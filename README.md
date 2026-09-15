@@ -19,3 +19,6 @@
 
 ### Merge Rebase
 <img src="images/image6.png">
+
+### Merge Rebase commit
+<img src="images/image7.png">
